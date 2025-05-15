@@ -68,12 +68,12 @@ const DashboardPage = () => {
           <Dialog open={isAddModalOpen} onOpenChange={setIsAddModalOpen}>
             <DialogTrigger asChild>
               <Button className="bg-gradient-to-r from-primary to-accent hover:opacity-90 transition-opacity duration-300">
-                <PlusCircle className="mr-2 h-5 w-5" /> Adicionar Produto Pai
+                <PlusCircle className="mr-2 h-5 w-5" /> Adicionar Produto
               </Button>
             </DialogTrigger>
             <DialogContent className="sm:max-w-[525px] glassmorphism text-foreground">
               <DialogHeader>
-                <DialogTitle className="text-2xl">Adicionar Novo Produto Pai</DialogTitle>
+                <DialogTitle className="text-2xl">Adicionar Novo Produto</DialogTitle>
                 <DialogDescription>
                   Preencha os detalhes do novo produto. O SKU será o ID único.
                 </DialogDescription>

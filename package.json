@@ -12,6 +12,7 @@
     "@radix-ui/react-toast": "^1.2.13",
     "@radix-ui/react-toggle-group": "^1.1.9",
     "class-variance-authority": "^0.7.1",
+    "firebase": "^11.7.3",
     "framer-motion": "^12.11.3",
     "lucide-react": "^0.510.0",
     "path": "^0.12.7",
