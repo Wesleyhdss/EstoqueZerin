@@ -58,7 +58,7 @@ const LoginPage = () => {
             >
               <LogIn size={48} className="text-primary" />
             </motion.div>
-            <CardTitle className="mr-2 h-5 w-5">
+            <CardTitle className="text-3xl font-bold bg-clip-text from-primary to-accent">
               Bem-vindo de Volta!
             </CardTitle>
             <CardDescription className="text-muted-foreground">
