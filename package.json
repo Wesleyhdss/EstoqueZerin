@@ -9,11 +9,9 @@
   },
   "dependencies": {
     "vue": "^3.2.0"
-    // ...suas outras deps
   },
   "devDependencies": {
     "vite": "^4.3.9",
     "tailwindcss": "^3.4.7"
-    // ...
   }
 }
